@@ -8,6 +8,10 @@ import java.util.List;
  * @author Thorsten Berger <thorsten.berger@rub.de>
  * @author Jan Sollmann <jan.sollmann@rub.de>
  */
+
+    /*----------------------------------------
+    Please notice that we deliver our implementation after the deadline just in order to become evaluation
+    ----------------------------------------*/
 public class Examples {
 
     public static final String E_ARM = "arm";
